@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
 <h3 align="center">A passionate Fullstack developer from Argentina to &#127758. </h3>
-<h4 align="center"> I'm a curious and empathic developer with a great logical thinking. . </h3>
+<p align="center"> I'm a curious and empathic developer with a great logical thinking that enjoy solving problems.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agustinkassargian" alt="agustinkassargian" /></a> </p>
 
