@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from Argentina to &#127758. </h3>
 <h4 align="center"> I'm a curious and empathic developer with a great logical thinking that enjoy solving problems. My favorites languages and tools are TypeScript, MongoDb, React.js and Redux, but also I've knowledge with JavaScript, PostgreSQL, Firebase and others, and I'm also learning Vue.Js. 
 
-When I made teamwork, I like contribute with ideas, solutions and goods vibes &#9889 .
+When I made teamwork, I like contribute with ideas, solutions and goods vibes &#x26A1 .
 </h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agustinkassargian" alt="agustinkassargian" /></a> </p>
