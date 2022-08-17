@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone! I'm Agustin &#128516</h1>
+<h1 align="center">Hi everyone! I'm Agustin &#128516 &#128161</h1>
 <h3 align="center">A passionate Fullstack developer from Argentina to &#127758. </h3>
 <h4 align="center"> I'm a curious and empathic developer with a great logical thinking that enjoy solving problems. My favorites languages and tools are TypeScript, MongoDb, React.js and Redux, but also I've knowledge with JavaScript, PostgreSQL, Firebase and others, and I'm also learning Vue.Js. 
 
